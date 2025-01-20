@@ -80,7 +80,7 @@
 
 В VSCode вызываем Command line и выбираем:
 
-![alt text](image.png)
+> **Shell Command: Install 'code' command in PATH**
 
 Для запуска VSCode в необходимой директории необходимо в нее войти в выполнить комманду:
 
