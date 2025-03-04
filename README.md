@@ -9,3 +9,7 @@
 1. [CRUD application - код + разбор логики](Sprint_1/crud_about_sh.md)  
 2. [Частые вопросы на собесах - ч1](Sprint_1/i_questions_cs_go.md)
 3. [Частые вопросы на собесах - ч2](Sprint_1/ii_questions_cs_go.md)
+
+## Вспомогательный материал
+
+1. Шпаргалка по коммандам [Docker](Sprint_1/cs_docker.md)
