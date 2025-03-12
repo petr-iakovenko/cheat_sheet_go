@@ -16,11 +16,19 @@
     - Паттерны для контроля параллельного выполнения задач - [Паттерны](Sprint_1/patterns_time_go.md)
     - Context в Go для упраления горутинами - [Context в Go](Sprint_1/сontext_go.md)
     - (Sync) Синхронизация работы горутин - [Sync в Go](Sprint_1/sync_go.md)
+    - Go Concurrency Patterns - [Pipelines and cancellation](Sprint_1/piplines_cancellation_go.md)
+    - Go Concurrency Visually Explained — [Semaphore](Sprint_1/semaphore_go.md)
+    - Внутреннее устройство mutex и atomic - [Atomics](Sprint_1/atomics_go.md)
+    - Когда использовать sync.Map - [sync.Map](Sprint_1/syncmap_go.md)
+    - "Изящное завершение работы" - [Graceful Shutdown](Sprint_1/graceful_shutdown_go.md)
+    - Scheduler Go. Простыми словами - [Go scheduler](Sprint_1/scheduler_go.md)
+    - Garbage Collector в Go - [GC](Sprint_1/gc_go.md)
 
 ## Вспомогательный материал
 
 1. Шпаргалка по командам - [Docker](Sprint_1/cs_docker.md)
 2. Примеры кода в Go - [Сайт](https://gobyexample.com.ru/)
+3. Статья "Как утроен WaitGroup под капотом" - [ссылка](https://www.pixelstech.net/article/1682509796-Understand-GoLang-WaitGroup-internals-and-how-it-works)
 
 ## Сложность и последовательность материалов
 
