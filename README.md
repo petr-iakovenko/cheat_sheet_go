@@ -21,7 +21,8 @@
     - Внутреннее устройство mutex и atomic - [Atomics](Sprint_1/atomics_go.md)
     - Когда использовать sync.Map - [sync.Map](Sprint_1/syncmap_go.md)
     - "Изящное завершение работы" - [Graceful Shutdown](Sprint_1/graceful_shutdown_go.md)
-    - Scheduler Go. Простыми словами - [Go scheduler](Sprint_1/scheduler_go.md)
+    - Scheduler Go. - [Go scheduler](Sprint_1/scheduler_go.md)
+    - Scheduler Go. по видео Николая Тузова - [Go scheduler](Sprint_1/schedule_go_.md)
     - Garbage Collector в Go - [GC](Sprint_1/gc_go.md)
 
 ## Вспомогательный материал
