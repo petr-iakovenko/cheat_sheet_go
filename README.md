@@ -30,6 +30,12 @@
 1. Шпаргалка по командам - [Docker](Sprint_1/cs_docker.md)
 2. Примеры кода в Go - [Сайт](https://gobyexample.com.ru/)
 3. Статья "Как утроен WaitGroup под капотом" - [ссылка](https://www.pixelstech.net/article/1682509796-Understand-GoLang-WaitGroup-internals-and-how-it-works)
+4. Транзакции в SQL - [Transactinons SQL](Sprint_1/transactions_db.md)
+5. Индексы в базах данных - [Index db](Sprint_1/index_db.md)
+    - B-Tree индексы: принципы работы и преимущества - [B-Tree](Sprint_1/btree_index.md)
+6. Шардинг и Репликация в базах данных - [sharding/repication](Sprint_1/sharding_replication_db.md)
+
+??. Односвязный список в Go - [Односвязный список в Go](Sprint_1/one_list_go.md)
 
 ## Сложность и последовательность материалов
 
