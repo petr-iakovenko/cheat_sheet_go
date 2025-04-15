@@ -33,7 +33,8 @@
 4. Транзакции в SQL - [Transactinons SQL](Sprint_1/transactions_db.md)
 5. Индексы в базах данных - [Index db](Sprint_1/index_db.md)
     - B-Tree индексы: принципы работы и преимущества - [B-Tree](Sprint_1/btree_index.md)
-6. Шардинг и Репликация в базах данных - [sharding/repication](Sprint_1/sharding_replication_db.md)
+6. Шардинг и Репликация в базах данных - [Sharding/Repication](Sprint_1/sharding_replication_db.md)
+7. Полное руководство по Apache Kafka - [Apache Kafka](Sprint_1/kafka_go.md)
 
 ??. Односвязный список в Go - [Односвязный список в Go](Sprint_1/one_list_go.md)
 
