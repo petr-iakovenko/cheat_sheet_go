@@ -35,8 +35,15 @@
     - B-Tree индексы: принципы работы и преимущества - [B-Tree](Sprint_1/btree_index.md)
 6. Шардинг и Репликация в базах данных - [Sharding/Repication](Sprint_1/sharding_replication_db.md)
 7. Полное руководство по Apache Kafka - [Apache Kafka](Sprint_1/kafka_go.md)
+8. System Design 101 - [habr.com](https://habr.com/ru/articles/770564/)
+9. Redis - [habr.com](https://habr.com/ru/companies/wunderfund/articles/685894/)
+10. Юнит-тесты с использованием Testify - [Guide](Sprint_1/testing_go.md)  
 
 ??. Односвязный список в Go - [Односвязный список в Go](Sprint_1/one_list_go.md)
+
+## Алгоритмы Go
+
+1. Топ алгоритмов по версии Claude и Gemini - [top15](Sprint_1/top_algo.md)  
 
 ## Сложность и последовательность материалов
 
